@@ -3,7 +3,7 @@ This is a repository for all the curious people who want to learn from the best 
 You can view any repository of github by using 1s in the link like github1s.com
 
 ## Table of Contents
-1. [Python](https://github.com/usamaimdadsian/top-repositories-on-github#1-python)
+1. [Python](#1-python)
 2. [AI](https://github.com/usamaimdadsian/top-repositories-on-github#2-ai)
 3. [Computer Vision](https://github.com/usamaimdadsian/top-repositories-on-github#3-computer-vision)
 4. [Flutter](https://github.com/usamaimdadsian/top-repositories-on-github#4-flutter)
