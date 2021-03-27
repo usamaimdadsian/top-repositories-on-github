@@ -1,5 +1,5 @@
 # Top Repositoreis on Github for Programmers
-This is a repository for all the curious people who want to learn from the best programming examples. This repositoy contains the Github link for top repositories for programmers. Another great repository for project based learning is [Project Based Learning](https://github.com/tuvtran/project-based-learning).
+This is a repository for all the curious people who want to learn from the best programming examples. This repositoy contains the Github link for top repositories for programmers. Another great repository for project based learning is [this](https://github.com/tuvtran/project-based-learning).
 
 ## Table of Contents
 1. Python
