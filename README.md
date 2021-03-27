@@ -4,17 +4,17 @@ You can view any repository of github by using 1s in the link like github1s.com
 
 ## Table of Contents
 1. [Python](#1-python)
-2. [AI](https://github.com/usamaimdadsian/top-repositories-on-github#2-ai)
-3. [Computer Vision](https://github.com/usamaimdadsian/top-repositories-on-github#3-computer-vision)
-4. [Flutter](https://github.com/usamaimdadsian/top-repositories-on-github#4-flutter)
-5. [PHP](https://github.com/usamaimdadsian/top-repositories-on-github#5-php)
-6. [Laravel](https://github.com/usamaimdadsian/top-repositories-on-github#6-laravel)
-7. [JavaScript](https://github.com/usamaimdadsian/top-repositories-on-github#7-javascript)
-8. [Vue.js](https://github.com/usamaimdadsian/top-repositories-on-github#8-vuejs)
-9. [Cyber Security](https://github.com/usamaimdadsian/top-repositories-on-github#9-cyber-security)
-10. [Java](https://github.com/usamaimdadsian/top-repositories-on-github#10-java)
-11. [C/C++](https://github.com/usamaimdadsian/top-repositories-on-github#11-cc)
-12. [Electron](https://github.com/usamaimdadsian/top-repositories-on-github#12-electron)
+2. [AI](#2-ai)
+3. [Computer Vision](#3-computer-vision)
+4. [Flutter](#4-flutter)
+5. [PHP](#5-php)
+6. [Laravel](#6-laravel)
+7. [JavaScript](#7-javascript)
+8. [Vue.js](#8-vuejs)
+9. [Cyber Security](#9-cyber-security)
+10. [Java](#10-java)
+11. [C/C++](#11-cc)
+12. [Electron](#12-electron)
 
 
 ## Other Great Respositories
