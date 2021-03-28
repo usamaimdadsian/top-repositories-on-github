@@ -15,12 +15,14 @@ You can view any repository of github by using 1s in the link like github1s.com
 10. [Java](#10-java)
 11. [C/C++](#11-cc)
 12. [Electron](#12-electron)
+13. [IOT](#13-iot)
 
 
 ## Other Great Respositories
 1. [The System Design Primer](https://github.com/donnemartin/system-design-primer): This repo is an organized collection of resources to help you learn how to build systems at scale.
 2. [Home Assistant](https://github.com/home-assistant/core)
 3. [Cheat Seets](https://github.com/LeCoupa/awesome-cheatsheets): Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+4. [Google Research](https://github.com/google-research/google-research): This repository contains code released by Google Research.
 
 
 ## 1. Python
@@ -52,6 +54,13 @@ It is written in Python and uses Qt for its graphical interface.
 9. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 10. [DeOldify ](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images (and video!)
 11. [ArtLine ](https://github.com/vijishmadhavan/ArtLine): A Deep Learning based project for creating line art portraits. 
+12. [Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying): The goal of this work is to raise awareness about the potential risks related to motion sensors built-in wearable devices and to demonstrate abuse opportunities leveraged by advanced neural network architectures.
+13. [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy): spaCy is a library for advanced Natural Language Processing in Python and Cython. It's built on the very latest research, and was designed from day one to be used in real products.
+14. [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning): The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+15. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation, for both TF v1 & v2.
+16. [faceswap](https://github.com/deepfakes/faceswap): FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos. 
+17. [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+18. [DeepFaceLab](https://github.com/iperov/DeepFaceLab): the leading software for creating deepfakes
 
 
 ## 3. Computer Vision
@@ -64,19 +73,39 @@ It is written in Python and uses Qt for its graphical interface.
 7. [RedditBot-FastAI ](https://github.com/ClarityCoders/RedditBot-FastAI): This is the setup I used to create my Reddit Bot that attempts to classify images as NSFW or SFW. This could be used to create any type of image classifier though using FastAI.
 8. [Hands-On Image Processing with Python](https://github.com/PacktPublishing/Hands-On-Image-Processing-with-Python): This is the code repository for Hands-On Image Processing with Python, published by Packt.
 9. [DoubleU-Net: A Deep Convolutional Neural Network for Medical Image Segmentation](https://github.com/DebeshJha/2020-CBMS-DoubleU-Net): DoubleU-Net starts with a VGG19 as encoder sub-network, which is followed by decoder sub-network. In the network, the input image is fed to the modified UNet(UNet1), which generates predicted masks (i.e., output1). We then multiply the input image and the produced masks (i.e., output1), which acts as an input for the second modified U-Net(UNet2) that produces another the generated mask (output2).
-10. 
+10. [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
+11. [Image Segmentation Keras : Implementation of Segnet, FCN, UNet, PSPNet and other models in Keras.](https://github.com/divamgupta/image-segmentation-keras)
+12. [ReDO: Unsupervised Object Segmentation by Redrawing](https://github.com/mickaelChen/ReDO): We discover meaningful segmentation masks by redrawing regions of the images independently.
+13. [Implementation of deep learning framework -- Unet, using Keras](https://github.com/zhixuhao/unet)
+14. [pix2code](https://github.com/tonybeltramelli/pix2code): In this paper, we show that deep learning methods can be leveraged to train a model end-to-end to automatically generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
+15. [AR Cut & Paste](https://github.com/cyrildiagne/ar-cutpaste)
+16. [semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation): Pytorch implementation of our paper Hierarchical Multi-Scale Attention for Semantic Segmentation.
+17. [Gluon CV Toolkit](https://github.com/dmlc/gluon-cv): GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.
 
 
 ## 4. Flutter
 1. [The Algorithms - Dart](https://github.com/TheAlgorithms/Dart)
+2. [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates): completely free for everyone. Its build-in Flutter Dart.
+3. [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps): This repository containing links of all the example apps demonstrating features/functionality/integrations in Flutter application development.
 
 
 ## 5. PHP
 1. [The Algorithms - PHP](https://github.com/TheAlgorithms/PHP): All algorithms implemented in Php (for education)
+2. [Intervention Image](https://github.com/Intervention/image): Intervention Image is a PHP image handling and manipulation library providing an easier and expressive way to create, edit, and compose images. The package includes ServiceProviders and Facades for easy Laravel integration.
 
 
 ## 6. Laravel
 1. [hashids](https://github.com/vinkla/hashids): Hashids is a small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database numeric ids to users: https://hashids.org/php
+2. [Akaunting™](https://github.com/akaunting/akaunting): Akaunting is a free, open source and online accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, VueJS, Bootstrap 4, RESTful API etc. Thanks to its modular structure, Akaunting provides an awesome App Store for users and developers.
+3. [Aimeos Laravel package](https://github.com/aimeos/aimeos-laravel): Aimeos is THE professional, full-featured and ultra fast e-commerce package for Laravel 5 and 6! You can install it in your existing Laravel application within 5 minutes and can adapt, extend, overwrite and customize anything to your needs.
+4. [Laravel Blog](https://github.com/binshops/laravel-blog): Have you worked with Wordpress? Developers call this package wordpress-like laravel blog.
+5. [Personal Relationship Manager](https://github.com/monicahq/monica): Monica is a great open source personal relationship management system.
+6. [koel](https://github.com/koel/koel): Koel (also stylized as koel, with a lowercase k) is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side.
+7. [Cachet](https://github.com/CachetHQ/Cachet): Cachet is a beautiful and powerful open source status page system.
+8. [October](https://github.com/octobercms/october): October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again. It was born out of frustration with existing systems. We feel building websites has become a convoluted and confusing process that leaves developers unsatisfied. We want to turn you around to the simpler side and get back to basics.
+
+
+
 ## 7. JavaScript
 1. [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript): All algorithms implemented in JavaScript (for educational purposes only)
 
@@ -97,3 +126,7 @@ It is written in Python and uses Qt for its graphical interface.
 
 ## 12. Electron
 1. [Bytenode](https://github.com/OsamaAbbas/bytenode): This tool truly compiles your JavaScript code into V8 bytecode, so that you can protect your source code. It can be used with Node.js >= 5.7.x, as well as Electron and NW.js (check examples/ directory).
+
+
+## 13. IOT
+1. [Home Assistant Chat Status](https://github.com/home-assistant/core)
