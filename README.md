@@ -123,6 +123,13 @@ It is written in Python and uses Qt for its graphical interface.
 
 
 ## 8. Vue.js
+1. [Storybook](https://github.com/storybookjs/storybook): Storybook is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components. Find out more at https://storybook.js.org.
+2. [Element](https://github.com/ElemeFE/element):  A Vue.js 2.0 UI Toolkit for Web 
+3. [element-plus](https://github.com/element-plus/element-plus):  A Vue.js 3.0 UI Library made by Element team 
+4. [iView](https://github.com/iview/iview): A high quality UI Toolkit built on Vue.js.
+5. [vuepress](https://github.com/vuejs/vuepress): Minimalistic Vue-powered static site generator
+
+
 ## 9. Cyber Security
 1. [Cyber Security Resources](https://github.com/The-Art-of-Hacking/h4cker): This repository includes thousands of cybersecurity-related references and resources and it is maintained by Omar Santos.
 2. [gun](https://github.com/amark/gun):  An open source cybersecurity protocol for syncing decentralized graph data. Decentralized alternatives to Zoom, Reddit, Slack, YouTube, Wikipedia, etc. have already pushed terabytes of daily P2P traffic on GUN. We are a friendly community creating a free fun future for freedom:
