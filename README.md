@@ -16,6 +16,8 @@ You can view any repository of github by using 1s in the link like github1s.com
 11. [C/C++](#11-cc)
 12. [Electron](#12-electron)
 13. [IOT](#13-iot)
+14. [Networking](#14-networking)
+15. [Twitter](#15-twitter)
 
 
 ## Other Great Respositories
@@ -23,6 +25,12 @@ You can view any repository of github by using 1s in the link like github1s.com
 2. [Home Assistant](https://github.com/home-assistant/core)
 3. [Cheat Seets](https://github.com/LeCoupa/awesome-cheatsheets): Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 4. [Google Research](https://github.com/google-research/google-research): This repository contains code released by Google Research.
+5. [Salt](https://github.com/saltstack/salt):  Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here.
+6. [TimescaleDB](https://github.com/timescale/timescaledb):  An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension. 
+7. [huginn](https://github.com/huginn/huginn):  Create agents that monitor and act on your behalf. Your agents are standing by! 
+8. [Clone Wars - Open source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars): 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Trello, Whatsapp, Youtube, etc. List contains source code, demo links, tech stack, and GitHub stars count. Great for learning purpose!
+9. [timeliner](https://github.com/mholt/timeliner):  All your digital life on a single timeline, stored locally 
+
 
 
 ## 1. Python
@@ -61,6 +69,7 @@ It is written in Python and uses Qt for its graphical interface.
 16. [faceswap](https://github.com/deepfakes/faceswap): FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos. 
 17. [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 18. [DeepFaceLab](https://github.com/iperov/DeepFaceLab): the leading software for creating deepfakes
+19. [Microsoft AI Lab](https://github.com/microsoft/ailab):  Experience, Learn and Code the latest breakthrough innovations with Microsoft AI  
 
 
 ## 3. Computer Vision
@@ -92,6 +101,7 @@ It is written in Python and uses Qt for its graphical interface.
 ## 5. PHP
 1. [The Algorithms - PHP](https://github.com/TheAlgorithms/PHP): All algorithms implemented in Php (for education)
 2. [Intervention Image](https://github.com/Intervention/image): Intervention Image is a PHP image handling and manipulation library providing an easier and expressive way to create, edit, and compose images. The package includes ServiceProviders and Facades for easy Laravel integration.
+3. [twitteroauth](https://github.com/abraham/twitteroauth):  The most popular PHP library for use with the Twitter OAuth REST API. 
 
 
 ## 6. Laravel
@@ -113,6 +123,7 @@ It is written in Python and uses Qt for its graphical interface.
 ## 8. Vue.js
 ## 9. Cyber Security
 1. [Cyber Security Resources](https://github.com/The-Art-of-Hacking/h4cker): This repository includes thousands of cybersecurity-related references and resources and it is maintained by Omar Santos.
+2. [gun](https://github.com/amark/gun):  An open source cybersecurity protocol for syncing decentralized graph data. Decentralized alternatives to Zoom, Reddit, Slack, YouTube, Wikipedia, etc. have already pushed terabytes of daily P2P traffic on GUN. We are a friendly community creating a free fun future for freedom:
 
 
 ## 10. Java
@@ -130,3 +141,43 @@ It is written in Python and uses Qt for its graphical interface.
 
 ## 13. IOT
 1. [Home Assistant Chat Status](https://github.com/home-assistant/core)
+2. [Tasmota](https://github.com/arendst/Tasmota): Alternative firmware for ESP8266 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Written for PlatformIO with limited support for Arduino IDE.
+3. [Johnny-Five](https://github.com/rwaldron/johnny-five): Johnny-Five is an Open Source, Firmata Protocol based, IoT and Robotics programming framework.
+4. [Marlin 3D Printer Firmware](https://github.com/MarlinFirmware/Marlin): Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed.
+5. [ESP8266 Deauther Version 2](https://github.com/SpacehuhnTech/esp8266_deauther): Affordable WiFi hacking platform for testing and learning
+6. [TinyGo - Go compiler for small places](https://github.com/tinygo-org/tinygo):  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+7. [Gobot](https://github.com/hybridgroup/gobot): Golang framework for robotics, drones, and the Internet of Things (IoT)
+8. [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university):  How to be low-level programmer
+9. [ArduinoJson](https://github.com/bblanchon/ArduinoJson): JSON library for Arduino and embedded C++. Simple and efficient.
+10. [WiFiManager](https://github.com/tzapu/WiFiManager):  ESP8266 WiFi Connection manager with web captive portal 
+11. [cylon](https://github.com/hybridgroup/cylon):  JavaScript framework for robotics, drones, and the Internet of Things (IoT)
+12. [Blynk C++ Library](https://github.com/blynkkk/blynk-library):  Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc. 
+13. [PJON](https://github.com/gioblu/PJON): With PJON you build networks of devices for free with no need of a cloud service or a centralized platform you don’t fully control. 
+14. [netdata](https://github.com/netdata/netdata): Netdata's distributed, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+15. [ThingsBoard](https://github.com/thingsboard/thingsboard): ThingsBoard is an open-source IoT platform for data collection, processing, visualization, and device management.
+16. [EMQ X Broker](https://github.com/emqx/emqx): EMQ X broker is a fully open source, highly scalable, highly available distributed MQTT messaging broker for IoT, M2M and Mobile applications that can handle tens of millions of concurrent clients.
+17. [pi-hole](https://github.com/pi-hole/pi-hole): The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
+18. [MagicMirror](https://github.com/MichMich/MagicMirror):  MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. 
+19. [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi):  A curated list of awesome Raspberry Pi tools, projects, images and resources 
+20. [esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater):  A full functional WiFi Repeater (correctly: a WiFi NAT Router) 
+21. [ESPHome](https://github.com/esphome/esphome):  ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. 
+22. [Audio Reactive LED Strip](https://github.com/scottlawsonbc/audio-reactive-led-strip): Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
+23. [Homie for ESP8266 / ESP32](https://github.com/homieiot/homie-esp8266)
+
+
+## 14. Networking
+1. [libuv](https://github.com/libuv/libuv): libuv is a multi-platform support library with a focus on asynchronous I/O. It was primarily developed for use by Node.js, but it's also used by Luvit, Julia, pyuv, and others.
+2. [ZeroTier - Global Area Networking](https://github.com/zerotier/ZeroTierOne): 
+3. [bandwhich](https://github.com/imsnif/bandwhich):  Terminal bandwidth utilization tool 
+4. [OpenSnitch](https://github.com/evilsocket/opensnitch):  OpenSnitch is a GNU/Linux port of the Little Snitch application firewall 
+5. [Fast Android Networking Library](https://github.com/amitshekhariitbhu/Fast-Android-Networking): A Complete Fast Android Networking Library that also supports HTTP/2
+6. [HP-Socket](https://github.com/ldcsaa/HP-Socket):  High Performance TCP/UDP/HTTP Communication Component 
+
+
+## 15-Twitter
+1. [RSSHub](https://github.com/DIYgod/RSSHub): RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
+2. [TWINT - Twitter Intelligence Tool](https://github.com/twintproject/twint):  An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations. 
+3. [Tweepy: Twitter for Python!](https://github.com/tweepy/tweepy)
+4. [Twitter Scraper](https://github.com/bisguzar/twitter-scraper):  Scrape the Twitter Frontend API without authentication. 
+5. [tweets_analyzer](https://github.com/x0rz/tweets_analyzer):  Tweets metadata scraper & activity analyzer
+6. [twitter-text](https://github.com/twitter/twitter-text):  Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. 
