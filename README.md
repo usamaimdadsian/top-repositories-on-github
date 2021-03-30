@@ -30,6 +30,7 @@ You can view any repository of github by using 1s in the link like github1s.com
 7. [huginn](https://github.com/huginn/huginn):  Create agents that monitor and act on your behalf. Your agents are standing by! 
 8. [Clone Wars - Open source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars): 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Trello, Whatsapp, Youtube, etc. List contains source code, demo links, tech stack, and GitHub stars count. Great for learning purpose!
 9. [timeliner](https://github.com/mholt/timeliner):  All your digital life on a single timeline, stored locally 
+10. [Coding Interview University](https://github.com/jwasham/coding-interview-university):  A complete computer science study plan to become a software engineer. 
 
 
 
@@ -118,6 +119,7 @@ It is written in Python and uses Qt for its graphical interface.
 
 ## 7. JavaScript
 1. [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript): All algorithms implemented in JavaScript (for educational purposes only)
+2. [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings 
 
 
 ## 8. Vue.js
@@ -128,11 +130,16 @@ It is written in Python and uses Qt for its graphical interface.
 
 ## 10. Java
 1. [The Algorithms - Java](https://github.com/TheAlgorithms/Java): All algorithms are implemented in Java (for educational purposes)
+2. [ java-design-patterns ](https://github.com/iluwatar/java-design-patterns):  Design patterns implemented in Java 
+3. [elasticsearch](https://github.com/elastic/elasticsearch):  Free and Open, Distributed, RESTful Search Engine 
+4. [interviews](https://github.com/kdn251/interviews):  Everything you need to know to get the job.
 
 
 ## 11. C/C++
 1. [The Algorithms - C](https://github.com/TheAlgorithms/C): The repository is a collection of open-source implementation of a variety of algorithms implemented in C and licensed under GPLv3 License. 
 2. [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus): The repository is a collection of open-source implementation of a variety of algorithms implemented in C++ and licensed under MIT License.
+3. [awesome-cpp](https://github.com/fffaraz/awesome-cpp):  A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
+4. [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose):  OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation 
 
 
 ## 12. Electron
