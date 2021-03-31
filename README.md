@@ -188,6 +188,7 @@ It is written in Python and uses Qt for its graphical interface.
 26. [ LVGL - Light and Versatile Graphics Library](https://github.com/lvgl/lvgl):  Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash). 
 27. [GuiLite](https://github.com/idea4good/GuiLite):  The smallest header-only GUI library(4 KLOC) for all platforms
 28. [blog](https://github.com/lpodkalicki/blog):  A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32 and more. 
+29. [Awesome IoT](https://github.com/HQarroum/awesome-iot): A curated list of awesome Internet of Things projects and resources. 
 
 
 ## 14. Networking
@@ -198,6 +199,11 @@ It is written in Python and uses Qt for its graphical interface.
 5. [Fast Android Networking Library](https://github.com/amitshekhariitbhu/Fast-Android-Networking): A Complete Fast Android Networking Library that also supports HTTP/2
 6. [HP-Socket](https://github.com/ldcsaa/HP-Socket):  High Performance TCP/UDP/HTTP Communication Component 
 7. [Mongoose - Embedded Web Server / Embedded Networking Library](https://github.com/cesanta/mongoose): Mongoose is a networking library for C/C++. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT. It has been designed for connecting devices and bringing them online.
+8. [pyATS Sample Scripts](https://github.com/CiscoDevNet/pyats-sample-scripts):  Various pyATS-based Test Automation Scripts 
+9. [pyATS Coding 101](https://github.com/CiscoDevNet/pyats-coding-101):  pyATS Coding 101 - Python & automation tutorial 
+10. [MY-CCNA-Prep-1](https://github.com/imsiddhant/MY-CCNA-Prep-1):  I'm currently preparing for my CCNA 200-301 Exam. During this preparation, I build some labs on various topics of Networking with the help of Cisco Packet Tracer. I hope, these labs will help you too during your preparations. (View README for Explanation). 
+11. [Cisco Cheetsheet](https://github.com/grplyler/cisco-cheatsheet):  A Cisco Cheatsheet: Commands and Snippets for bootstrapping, boilerplate, configuration, and hardening of Cisco routers and switches. 
+12. [EnterpriseNetworkTopology](https://github.com/sandeep3119/EnterpriseNetworkTopology):  A network topology with all the essential configuration for a multi-location based company. 
 
 
 ## 15. Twitter
