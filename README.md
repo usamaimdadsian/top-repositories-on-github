@@ -1,4 +1,4 @@
-# Top Repositoreis on Github for Programmers
+# Top Repositoreis on Github for Computer Engineers
 This is a repository for all the curious people who want to learn from the best programming examples. This repositoy contains the Github link for top repositories for programmers. Another great repository for project based learning is [this](https://github.com/tuvtran/project-based-learning).
 You can view any repository of github by using 1s in the link like github1s.com
 
