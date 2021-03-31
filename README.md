@@ -40,6 +40,8 @@ You can view any repository of github by using 1s in the link like github1s.com.
 13. [Books Making You Better](https://github.com/hao-lh/books-making-you-better):  A list of classic books make better you understand not only how it works, but why it works. 
 14. [Computer Engineering Resources](https://github.com/rajesh-s/computer-engineering-resources):  A curated list of Computer Engineering resources 
 
+[Top](#table-of-contents)
+
 
 
 ## 1. Python
@@ -57,6 +59,7 @@ You can view any repository of github by using 1s in the link like github1s.com.
 12. [labelme](https://github.com/wkentaro/labelme): Labelme is a graphical image annotation tool inspired by http://labelme.csail.mit.edu.
 It is written in Python and uses Qt for its graphical interface.
 
+[Top](#table-of-contents)
 
 
 ## 2. AI
@@ -81,6 +84,8 @@ It is written in Python and uses Qt for its graphical interface.
 19. [Microsoft AI Lab](https://github.com/microsoft/ailab):  Experience, Learn and Code the latest breakthrough innovations with Microsoft AI  
 20. [Project DeepSpeech](https://github.com/mozilla/DeepSpeech):  DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
+[Top](#table-of-contents)
+
 
 ## 3. Computer Vision
 1. [Face Recognition](https://github.com/ageitgey/face_recognition): Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
@@ -101,17 +106,23 @@ It is written in Python and uses Qt for its graphical interface.
 16. [semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation): Pytorch implementation of our paper Hierarchical Multi-Scale Attention for Semantic Segmentation.
 17. [Gluon CV Toolkit](https://github.com/dmlc/gluon-cv): GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.
 
+[Top](#table-of-contents)
+
 
 ## 4. Flutter
 1. [The Algorithms - Dart](https://github.com/TheAlgorithms/Dart)
 2. [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates): completely free for everyone. Its build-in Flutter Dart.
 3. [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps): This repository containing links of all the example apps demonstrating features/functionality/integrations in Flutter application development.
 
+[Top](#table-of-contents)
+
 
 ## 5. PHP
 1. [The Algorithms - PHP](https://github.com/TheAlgorithms/PHP): All algorithms implemented in Php (for education)
 2. [Intervention Image](https://github.com/Intervention/image): Intervention Image is a PHP image handling and manipulation library providing an easier and expressive way to create, edit, and compose images. The package includes ServiceProviders and Facades for easy Laravel integration.
 3. [twitteroauth](https://github.com/abraham/twitteroauth):  The most popular PHP library for use with the Twitter OAuth REST API. 
+
+[Top](#table-of-contents)
 
 
 ## 6. Laravel
@@ -124,11 +135,14 @@ It is written in Python and uses Qt for its graphical interface.
 7. [Cachet](https://github.com/CachetHQ/Cachet): Cachet is a beautiful and powerful open source status page system.
 8. [October](https://github.com/octobercms/october): October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again. It was born out of frustration with existing systems. We feel building websites has become a convoluted and confusing process that leaves developers unsatisfied. We want to turn you around to the simpler side and get back to basics.
 
+[Top](#table-of-contents)
 
 
 ## 7. JavaScript
 1. [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript): All algorithms implemented in JavaScript (for educational purposes only)
 2. [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings 
+
+[Top](#table-of-contents)
 
 
 ## 8. Vue.js
@@ -138,10 +152,14 @@ It is written in Python and uses Qt for its graphical interface.
 4. [iView](https://github.com/iview/iview): A high quality UI Toolkit built on Vue.js.
 5. [vuepress](https://github.com/vuejs/vuepress): Minimalistic Vue-powered static site generator
 
+[Top](#table-of-contents)
+
 
 ## 9. Cyber Security
 1. [Cyber Security Resources](https://github.com/The-Art-of-Hacking/h4cker): This repository includes thousands of cybersecurity-related references and resources and it is maintained by Omar Santos.
 2. [gun](https://github.com/amark/gun):  An open source cybersecurity protocol for syncing decentralized graph data. Decentralized alternatives to Zoom, Reddit, Slack, YouTube, Wikipedia, etc. have already pushed terabytes of daily P2P traffic on GUN. We are a friendly community creating a free fun future for freedom:
+
+[Top](#table-of-contents)
 
 
 ## 10. Java
@@ -150,6 +168,8 @@ It is written in Python and uses Qt for its graphical interface.
 3. [elasticsearch](https://github.com/elastic/elasticsearch):  Free and Open, Distributed, RESTful Search Engine 
 4. [interviews](https://github.com/kdn251/interviews):  Everything you need to know to get the job.
 
+[Top](#table-of-contents)
+
 
 ## 11. C/C++
 1. [The Algorithms - C](https://github.com/TheAlgorithms/C): The repository is a collection of open-source implementation of a variety of algorithms implemented in C and licensed under GPLv3 License. 
@@ -157,9 +177,13 @@ It is written in Python and uses Qt for its graphical interface.
 3. [awesome-cpp](https://github.com/fffaraz/awesome-cpp):  A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
 4. [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose):  OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation 
 
+[Top](#table-of-contents)
+
 
 ## 12. Electron
 1. [Bytenode](https://github.com/OsamaAbbas/bytenode): This tool truly compiles your JavaScript code into V8 bytecode, so that you can protect your source code. It can be used with Node.js >= 5.7.x, as well as Electron and NW.js (check examples/ directory).
+
+[Top](#table-of-contents)
 
 
 ## 13. IOT
@@ -193,6 +217,8 @@ It is written in Python and uses Qt for its graphical interface.
 28. [blog](https://github.com/lpodkalicki/blog):  A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32 and more. 
 29. [Awesome IoT](https://github.com/HQarroum/awesome-iot): A curated list of awesome Internet of Things projects and resources. 
 
+[Top](#table-of-contents)
+
 
 ## 14. Networking
 1. [libuv](https://github.com/libuv/libuv): libuv is a multi-platform support library with a focus on asynchronous I/O. It was primarily developed for use by Node.js, but it's also used by Luvit, Julia, pyuv, and others.
@@ -208,6 +234,8 @@ It is written in Python and uses Qt for its graphical interface.
 11. [Cisco Cheetsheet](https://github.com/grplyler/cisco-cheatsheet):  A Cisco Cheatsheet: Commands and Snippets for bootstrapping, boilerplate, configuration, and hardening of Cisco routers and switches. 
 12. [EnterpriseNetworkTopology](https://github.com/sandeep3119/EnterpriseNetworkTopology):  A network topology with all the essential configuration for a multi-location based company. 
 
+[Top](#table-of-contents)
+
 
 ## 15. Twitter
 1. [RSSHub](https://github.com/DIYgod/RSSHub): RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
@@ -217,6 +245,7 @@ It is written in Python and uses Qt for its graphical interface.
 5. [tweets_analyzer](https://github.com/x0rz/tweets_analyzer):  Tweets metadata scraper & activity analyzer
 6. [twitter-text](https://github.com/twitter/twitter-text):  Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. 
 
+[Top](#table-of-contents)
 
 
 ## 16. Electronics
@@ -229,3 +258,5 @@ It is written in Python and uses Qt for its graphical interface.
 7. [DMG-CPU-Inside](https://github.com/furrtek/DMG-CPU-Inside):  Reverse-engineered schematics for DMG-CPU-B 
 8. [Circuit Simulator](https://github.com/circuitsim/circuit-simulator):  An interactive electronic circuit simulator 
 9. [https://kitspace.org](https://github.com/kitspace/kitspace):  A place to share electronics projects 
+
+[Top](#table-of-contents)
