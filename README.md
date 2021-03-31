@@ -18,6 +18,7 @@ You can view any repository of github by using 1s in the link like github1s.com
 13. [IOT](#13-iot)
 14. [Networking](#14-networking)
 15. [Twitter](#15-twitter)
+16. [Electronics](#16-electronics)
 
 
 ## Other Great Respositories
@@ -31,6 +32,10 @@ You can view any repository of github by using 1s in the link like github1s.com
 8. [Clone Wars - Open source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars): 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Trello, Whatsapp, Youtube, etc. List contains source code, demo links, tech stack, and GitHub stars count. Great for learning purpose!
 9. [timeliner](https://github.com/mholt/timeliner):  All your digital life on a single timeline, stored locally 
 10. [Coding Interview University](https://github.com/jwasham/coding-interview-university):  A complete computer science study plan to become a software engineer. 
+11. [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses):  List of Computer Science courses with video lectures. 
+12. [Little Virtual Computer](https://github.com/jsdf/little-virtual-computer):  Learn how computers work by simulating them in Javascript 
+13. [Books Making You Better](https://github.com/hao-lh/books-making-you-better):  A list of classic books make better you understand not only how it works, but why it works. 
+14. [Computer Engineering Resources](https://github.com/rajesh-s/computer-engineering-resources):  A curated list of Computer Engineering resources 
 
 
 
@@ -71,6 +76,7 @@ It is written in Python and uses Qt for its graphical interface.
 17. [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 18. [DeepFaceLab](https://github.com/iperov/DeepFaceLab): the leading software for creating deepfakes
 19. [Microsoft AI Lab](https://github.com/microsoft/ailab):  Experience, Learn and Code the latest breakthrough innovations with Microsoft AI  
+20. [Project DeepSpeech](https://github.com/mozilla/DeepSpeech):  DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
 
 ## 3. Computer Vision
@@ -177,6 +183,11 @@ It is written in Python and uses Qt for its graphical interface.
 21. [ESPHome](https://github.com/esphome/esphome):  ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. 
 22. [Audio Reactive LED Strip](https://github.com/scottlawsonbc/audio-reactive-led-strip): Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
 23. [Homie for ESP8266 / ESP32](https://github.com/homieiot/homie-esp8266)
+24. [The MicroPython project](https://github.com/micropython/micropython):  MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems 
+25. [RouterSploit - Exploitation Framework for Embedded Devices](https://github.com/threat9/routersploit):  Exploitation Framework for Embedded Devices 
+26. [ LVGL - Light and Versatile Graphics Library](https://github.com/lvgl/lvgl):  Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash). 
+27. [GuiLite](https://github.com/idea4good/GuiLite):  The smallest header-only GUI library(4 KLOC) for all platforms
+28. [blog](https://github.com/lpodkalicki/blog):  A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32 and more. 
 
 
 ## 14. Networking
@@ -186,12 +197,26 @@ It is written in Python and uses Qt for its graphical interface.
 4. [OpenSnitch](https://github.com/evilsocket/opensnitch):  OpenSnitch is a GNU/Linux port of the Little Snitch application firewall 
 5. [Fast Android Networking Library](https://github.com/amitshekhariitbhu/Fast-Android-Networking): A Complete Fast Android Networking Library that also supports HTTP/2
 6. [HP-Socket](https://github.com/ldcsaa/HP-Socket):  High Performance TCP/UDP/HTTP Communication Component 
+7. [Mongoose - Embedded Web Server / Embedded Networking Library](https://github.com/cesanta/mongoose): Mongoose is a networking library for C/C++. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT. It has been designed for connecting devices and bringing them online.
 
 
-## 15-Twitter
+## 15. Twitter
 1. [RSSHub](https://github.com/DIYgod/RSSHub): RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
 2. [TWINT - Twitter Intelligence Tool](https://github.com/twintproject/twint):  An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations. 
 3. [Tweepy: Twitter for Python!](https://github.com/tweepy/tweepy)
 4. [Twitter Scraper](https://github.com/bisguzar/twitter-scraper):  Scrape the Twitter Frontend API without authentication. 
 5. [tweets_analyzer](https://github.com/x0rz/tweets_analyzer):  Tweets metadata scraper & activity analyzer
 6. [twitter-text](https://github.com/twitter/twitter-text):  Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. 
+
+
+
+## 16. Electronics
+1. [Awesome Electronics](https://github.com/kitspace/awesome-electronics):  A curated list of awesome resources for electronic engineers and hobbyists 
+2. [MakAir — Covid-19 Ventilator](https://github.com/makers-for-life/makair): The world's first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).
+3. [skidl](https://github.com/xesscorp/skidl):  SKiDL is a module that extends Python with the ability to design electronic circuits. 
+4. [Automated irrigation system](https://github.com/PatrickHallek/automated-irrigation-system):  This is the software of an open source automated irrigation system. The complete setup including hardware can be found in the README. 
+5. [Open Electronics](https://github.com/intajay/open-electronics): Great Resources for Electronics Enthusiasts and Hardware Hackers
+6. [MK1 8bit Computer](https://github.com/vascofazza/8bit-cpu):  Schematics & code for my 74LS-based 8-bit MK1 CPU 
+7. [DMG-CPU-Inside](https://github.com/furrtek/DMG-CPU-Inside):  Reverse-engineered schematics for DMG-CPU-B 
+8. [Circuit Simulator](https://github.com/circuitsim/circuit-simulator):  An interactive electronic circuit simulator 
+9. [https://kitspace.org](https://github.com/kitspace/kitspace):  A place to share electronics projects 
