@@ -22,6 +22,7 @@ You can view any repository of github by using 1s in the link like github1s.com.
 14. [Networking](#14-networking)
 15. [Twitter](#15-twitter)
 16. [Electronics](#16-electronics)
+17. [Web](#17-web)
 
 
 ## Other Great Respositories
@@ -262,3 +263,9 @@ It is written in Python and uses Qt for its graphical interface.
 9. [https://kitspace.org](https://github.com/kitspace/kitspace):  A place to share electronics projects 
 
 [Top](#table-of-contents)
+
+
+
+## 17. Web
+1. [Matomo (formerly Piwik) - matomo.org](https://github.com/matomo-org/matomo): Liberating Web Analytics. Matomo is the leading open alternative to Google Analytics that gives you full control over your data
+2. [Plausible Analytics](https://github.com/plausible/analytics) Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. 
