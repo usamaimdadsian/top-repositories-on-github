@@ -59,6 +59,7 @@ You can view any repository of github by using 1s in the link like github1s.com.
 11. [30 seconds of Python](https://github.com/30-seconds/30-seconds-of-python): Short Python code snippets for all your development needs
 12. [labelme](https://github.com/wkentaro/labelme): Labelme is a graphical image annotation tool inspired by http://labelme.csail.mit.edu.
 It is written in Python and uses Qt for its graphical interface.
+13. [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App):  A Python/Pytorch app for easily synthesising human voices 
 
 [Top](#table-of-contents)
 
