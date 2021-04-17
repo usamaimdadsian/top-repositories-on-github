@@ -138,6 +138,7 @@ It is written in Python and uses Qt for its graphical interface.
 8. [October](https://github.com/octobercms/october): October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again. It was born out of frustration with existing systems. We feel building websites has become a convoluted and confusing process that leaves developers unsatisfied. We want to turn you around to the simpler side and get back to basics.
 9. [SEOTools - SEO Tools for Laravel and Lumen](https://github.com/artesaos/seotools):  SEO Tools for Laravel 
 10. [Generate sitemaps with ease](https://github.com/spatie/laravel-sitemap):  Create and generate sitemaps with ease 
+11. [LARAVEL Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 
 [Top](#table-of-contents)
 
